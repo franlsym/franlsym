@@ -6,7 +6,7 @@
 
 
 
-| <a href="https://github.com/franlsym/github-readme-stats" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=franlsym&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true$theme=cobalt" alt="franlsym github stats"/></a>|<a href="https://github.com/franlsym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franlsym&layout=compact&theme=buefy&hide_border=true"></a>|
+| <a href="https://github.com/franlsym/github-readme-stats&count_private=true" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=franlsym&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true$theme=cobalt&count_private=true" alt="franlsym github stats"/></a>|<a href="https://github.com/franlsym/github-readme-stats&count_private=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franlsym&layout=compact&theme=buefy&hide_border=true&count_private=true"></a>|
 | ------------- | ------------- |
 
 <!--
