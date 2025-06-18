@@ -1,4 +1,7 @@
-# 👋 Hello, I'm Fran
+# 👋 Hello
+
+<!--
+, I'm Fran
 
 I’m a Software Developer at **B2B IT**, where I focus on full-stack development, and automated testing. My work spans various development environments, cloud platforms, and modern web technologies.
 
@@ -27,3 +30,4 @@ I’m a Software Developer at **B2B IT**, where I focus on full-stack developmen
 ---
 
 Thank you for visiting my profile.
+-->
